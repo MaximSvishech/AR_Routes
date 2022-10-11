@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "8_To_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Angle": 10.360414, "Meter": 25, "Direction": "North", "Additional": "8_To_7_a" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.77324939507551, 32.014086971857338 ], [ 34.773289454974588, 32.014306093622253 ], [ 34.773289454974588, 32.014306093622253 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Angle": 61.951345, "Meter": 47, "Direction": "east", "Additional": "8_to_7_b" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.773289654029995, 32.014305840448927 ], [ 34.773714935890339, 32.014532430285115 ], [ 34.773714935890339, 32.014532430285115 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Angle": 137.79725, "Meter": 54, "Direction": "south", "Additional": "8_to_7_c" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.77371496077226, 32.014532430285115 ], [ 34.774066666780698, 32.014144590003617 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Angle": 59.753073, "Meter": 38, "Direction": "east", "Additional": "8_to_7_d" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.774066766308387, 32.014144547807994 ], [ 34.77439565559169, 32.014336326730458 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Angle": 141.05895, "Meter": 1, "Direction": "south", "Additional": "8_to_7_e" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.774395755119393, 32.014336284534927 ], [ 34.774403120169161, 32.014327170298181 ] ] ] } }
+]
+}
